@@ -1,33 +1,3 @@
 # dhirspromise
 Dhir's Promise webportal
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dhir's Promise</title>
-    <style>
-        body { font-family: Arial; background: #f3f3f3; padding: 20px; }
-        h1 { text-align: center; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 20px; max-width: 800px; margin: auto; }
-        .card { background: white; border-radius: 10px; padding: 15px; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
-        a { text-decoration: none; color: black; font-weight: bold; }
-    </style>
-</head>
-<body>
-    <h1>Welcome to Dhir's Promise</h1>
-    <p style="text-align:center;">Explore our fresh organic produce below:</p>
-    <div class="grid">
-        <div class="card"><a href="potatoes.html">Potatoes</a></div>
-        <div class="card"><a href="lettuce.html">Lettuce</a></div>
-        <div class="card"><a href="peas.html">Peas</a></div>
-        <div class="card"><a href="beans.html">Beans</a></div>
-        <div class="card"><a href="chamomile.html">Chamomile</a></div>
-    </div>
-    <p style="text-align:center; margin-top:40px;">
-        <a href="contact.html">Contact Us</a> | 
-        <a href="questions.html">Ask a Question</a>
-    </p>
-</body>
-</html>
